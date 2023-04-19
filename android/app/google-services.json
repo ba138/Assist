@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633559345339",
+    "project_id": "personal-assistant-27caf",
+    "storage_bucket": "personal-assistant-27caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633559345339:android:97c5a8f64f14484c50619e",
+        "android_client_info": {
+          "package_name": "com.basit.assist.assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633559345339-nl6uaie48vp9q4o9fkkd90o3efb5ao26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF9PeLwmLF40oFtOz71ochxE6TYkGmst8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633559345339-nl6uaie48vp9q4o9fkkd90o3efb5ao26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
